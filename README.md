@@ -1,7 +1,7 @@
-*** *** # Hi there, I'm Hermawan 👋
+***# Hi there, I'm Hermawan 👋
 
 ## 🚀 About Me
-Software Engineer & Developer at **KPU Kepulauan Seribu**. I build E-Office systems, automation tools, and digital solutions to make bureaucratic processes efficient and transparent.
+Software Engineer & Developer. I build digital solutions, automation tools, and systems to make processes efficient and transparent.
 
 🔭 Currently working on **Satuga** — an E-Office platform for work assignments and document management
 🌱 Learning **AI/ML integration** and **system architecture**
@@ -20,7 +20,6 @@ Software Engineer & Developer at **KPU Kepulauan Seribu**. I build E-Office syst
 ## 📫 Let's Connect
 - 📧 Email: hermawan.indar99@gmail.com
 - 💼 LinkedIn: [Hermawan Indaryanto](https://linkedin.com/in/hermawan-indaryanto)
-- 🏢 KPU Kepulauan Seribu
 
 ---
 
