@@ -1,4 +1,4 @@
-***# Hi there, I'm Hermawan 👋
+# Hi there, I'm Hermawan 👋
 
 ## 🚀 About Me
 Software Engineer & Developer. I build digital solutions, automation tools, and systems to make processes efficient and transparent.
